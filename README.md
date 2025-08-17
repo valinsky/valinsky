@@ -2,5 +2,6 @@
 
 I build distributed systems at scale and ship high-impact features.
 
-Read [my blog](https://valinsky.dev).
-
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
